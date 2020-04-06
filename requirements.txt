@@ -83,7 +83,7 @@ slip.dbus==0.4.0
 subprocess32==3.2.6
 targetcli-fb===2.1.fb49
 urlgrabber==3.10
-urllib3==1.10.2
+urllib3==1.24.2
 urwid==1.1.1
 yum-langpacks==0.4.2
 yum-metadata-parser==1.1.4
