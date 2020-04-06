@@ -38,7 +38,7 @@ Magic-file-extensions==0.2
 MarkupSafe==1.1.1
 ntplib==0.3.2
 pam==0.1.4
-paramiko==2.1.1
+paramiko==2.1.6
 passlib==1.6.5
 perf==0.1
 pexpect==2.3
